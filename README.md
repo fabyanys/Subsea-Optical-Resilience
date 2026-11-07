@@ -109,7 +109,7 @@ Telecom_Resilience_AI/
 ### 1. Environment Setup
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/telecom-resilience-ai.git
+git clone https://github.com/fabyanys/Subsea-Optical-Resilience.git
 cd telecom-resilience-ai
 
 # (Optional but recommended) Create and activate a virtual environment
