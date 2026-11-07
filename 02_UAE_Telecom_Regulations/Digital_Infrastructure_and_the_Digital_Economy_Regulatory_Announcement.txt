@@ -1,0 +1,32 @@
+================================================================================
+TDRA REGULATORY ANNOUNCEMENT: DIGITAL INFRASTRUCTURE AND THE DIGITAL ECONOMY
+Telecommunications and Digital Government Regulatory Authority (TDRA), United Arab Emirates
+National Strategic Framework for Resilient Digital Infrastructure & Economic Sovereignty
+================================================================================
+
+1. STRATEGIC CONTEXT & VISION 2031 ALIGNMENT
+The Telecommunications and Digital Government Regulatory Authority (TDRA) issues this Regulatory Announcement to establish mandatory benchmarks for digital infrastructure resilience, supporting the UAE Digital Economy Strategy and the national "We The UAE 2031" vision. 
+
+The UAE's ambition to double the digital economy's contribution to national non-oil GDP requires an ultra-resilient, AI-ready, and sovereign telecommunications backbone. Submarine cable landing infrastructure and domestic optical transport networks form the critical foundation of this digital economy.
+
+2. FOUNDATIONAL PILLARS OF NATIONAL DIGITAL INFRASTRUCTURE
+A. Global Leadership in Optical and Subsea Connectivity:
+   - The UAE commands a preeminent strategic position as the primary submarine cable gateway connecting Europe, the Middle East, Africa, and Asia (ME-WA-E axis).
+   - TDRA mandates that all international connectivity investments preserve geographic diversity across both the Arabian Gulf coastline (Dubai, Sharjah, Abu Dhabi) and the Indian Ocean coastline (Fujairah).
+   - Optical networks must deploy next-generation Dense Wavelength Division Multiplexing (DWDM) and Reconfigurable Optical Add-Drop Multiplexers (ROADM) to enable sub-50ms automated optical restoration.
+
+B. Federal Network (FedNet) and Sovereign Cloud Security:
+   - TDRA oversees FedNet, providing secure, unified digital connectivity across all UAE federal entities, judicial organs, and public services.
+   - Core FedNet communication conduits and inter-emirate backbones must remain physically isolated from public unencrypted traffic and must be resilient against cross-border BGP hijacking or foreign cyber interference.
+
+C. Digital Economic Enablers:
+   - National digital public infrastructure—including UAE PASS, the Government Service Bus (GSB), and API marketplaces—requires continuous high-availability service level agreements (99.999% availability).
+   - Telecom operators must ensure guaranteed low-latency, jitter-free transmission for mission-critical financial transactions and cloud interconnects.
+
+3. RESILIENCE MANDATES FOR OPERATORS AND DATA CENTERS
+* Redundant Interconnects: All commercial data centers hosting critical national information or financial cloud services must possess at least two distinct, carrier-neutral optical feed paths routed via separate physical rights-of-way.
+* AI-Driven Autonomous Network Management: TDRA actively endorses the integration of autonomous AI agents and intelligent orchestration tools for real-time fault detection, dynamic optical rerouting, and predictive bandwidth allocation during infrastructure stress.
+* Strict Sovereign Routing: Data originating in and intended for destinations within the UAE must not exit national telecommunications boundaries for transit through third-party sovereign territories (anti-hairpinning mandate).
+
+4. REGULATORY SUPERVISION
+Pursuant to its statutory authority, TDRA will evaluate licensee performance metrics, penalize preventable outages, and coordinate with international standardization bodies (ITU-T) to ensure UAE digital infrastructure remains among the world's most resilient and technologically advanced.

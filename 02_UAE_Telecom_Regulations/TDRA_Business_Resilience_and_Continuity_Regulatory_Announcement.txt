@@ -1,0 +1,37 @@
+================================================================================
+TDRA REGULATORY ANNOUNCEMENT: BUSINESS RESILIENCE AND CONTINUITY IN THE TELECOM SECTOR
+Telecommunications and Digital Government Regulatory Authority (TDRA), United Arab Emirates
+Official Regulatory Framework and Operational Resilience Guidelines
+================================================================================
+
+1. EXECUTIVE SUMMARY & STATUTORY AUTHORITY
+Under the statutory powers conferred upon the Telecommunications and Digital Government Regulatory Authority (TDRA) pursuant to Federal Law by Decree No. (3) of 2003 Regarding the Organization of the Telecommunications Sector (as amended), TDRA hereby issues this comprehensive Regulatory Announcement and Operational Framework governing Business Resilience and Continuity across all licensed telecommunications operators, international cable landing station operators, and critical ICT service providers in the United Arab Emirates.
+
+Modern socioeconomic stability, financial services, healthcare, defense, civil security, and government administration are critically dependent on uninterrupted telecommunications infrastructure. This directive mandates continuous operational preparedness, multi-hazard risk mitigation, subsea cable physical resilience, and nationwide crisis response coordination.
+
+2. STRATEGIC OBJECTIVES
+* Zero-Tolerance for Uncontrolled Blackouts: Guarantee the continuous operation and rapid survivability of primary national and international telecommunications links during catastrophic external disruptions.
+* Multi-Tiered Emergency Coordination: Align telecommunications operational response with national disaster management structures led by the National Emergency Crisis and Disaster Management Authority (NCEMA) and the Supreme Council for National Security.
+* Infrastructure Redundancy: Mandate N+1 and 1+1 physical and logical diversity across all submarine cable landing stations (CLS), terrestrial backbone corridors, core optical switching centers, and data transmission facilities.
+
+3. LICENSEE COMPLIANCE REQUIREMENTS
+A. Business Continuity Management System (BCMS):
+   - All licensed telecommunications operators (e&, du, and designated international infrastructure partners) must implement and maintain a certified Business Continuity Management System compliant with national NCEMA 7000 standards and international ISO 22301 specifications.
+   - Licensees must define explicit Recovery Time Objectives (RTO < 50 milliseconds for optical layer automated protection; RTO < 15 minutes for packet re-route restoration) and Recovery Point Objectives (RPO = 0 data loss for critical infrastructure traffic).
+
+B. Critical Infrastructure Protection & Subsea Resilience:
+   - Operators of submarine telecommunications cable landing stations within the UAE (including Fujairah, Dubai, Abu Dhabi, and Sharjah landing facilities) must maintain real-time automated fault detection, Coherent Optical Time-Domain Reflectometry (C-OTDR), and multi-route optical mesh restoration.
+   - Terrestrial backhaul from cable landing stations must feature geographically separated route corridors to avoid single-point failure across regional transport nodes.
+
+C. Sovereign Traffic Prioritization & Crisis Allocation:
+   - In the event of a force majeure incident, maritime anchor cut, or geopolitical crisis severing primary submarine cables:
+     * Tier-1 Critical Sovereign & Financial Traffic (CBUAE RTGS, UAEFTS, SWIFT, Emergency Services, Government FedNet) must be granted absolute priority with 100% capacity reservation.
+     * Tier-2 Commercial and Enterprise connectivity must be sustained via pre-allocated shared wavelengths.
+     * Tier-3 Non-essential entertainment, public social media, and best-effort commercial streaming traffic must be dynamically throttled or preempted to preserve grid integrity.
+
+D. Mandatory Incident Reporting & Escalation:
+   - Licensees must immediately notify TDRA’s National Telecom Operations Centre (TOC) within 15 minutes of any major international cable break or outage affecting greater than 10% of national aggregate external bandwidth.
+   - Comprehensive Root Cause Analysis (RCA) and mitigation reports must be submitted within 24 hours of service restoration.
+
+4. SECTOR AUDIT & ENFORCEMENT
+TDRA maintains sovereign auditing powers to conduct unannounced operational resilience drills, simulate subsea severed cable scenarios, inspect landing stations, and impose regulatory penalties or license sanctions for non-compliance under Federal Law by Decree No. 3 of 2003.

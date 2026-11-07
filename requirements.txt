@@ -1,0 +1,39 @@
+# Local LLM & GGUF Inference (ITU AI for Good Notebook Reference)
+llama-cpp-python>=0.2.80
+huggingface-hub>=0.23.0
+torch>=2.0.0
+
+# Embeddings & Vector Database
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+
+# Document Ingestion & Parsing
+pypdf>=4.2.0
+pdfplumber>=0.11.0
+
+# Multi-Agent Framework & LLM Tools
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+langgraph>=0.1.0
+google-generativeai>=0.7.0
+langchain-google-genai>=1.0.0
+
+# Network Modeling & Optimization (Deterministic Engine)
+networkx>=3.2.0
+scipy>=1.13.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Web Dashboard & Visualization
+streamlit>=1.35.0
+pyvis>=0.3.2
+folium>=0.16.0
+streamlit-folium>=0.19.0
+plotly>=5.22.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.7.0
+tqdm>=4.66.0
+rich>=13.7.0

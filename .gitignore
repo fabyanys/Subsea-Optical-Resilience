@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Large Model Files (Exceeds GitHub 100MB limit - auto-downloaded via download_model.py)
+models/*
+!models/.gitkeep
+models/.cache/
+*.gguf
+
+# Environment & Secrets
+.env
+.env.local
+
+# Knowledge Base & Vector DB generated files (Keep .gitkeep)
+05_Knowledge_Base/vector_db/*
+!05_Knowledge_Base/vector_db/.gitkeep
+05_Knowledge_Base/processed_chunks/*
+!05_Knowledge_Base/processed_chunks/.gitkeep
+
+# Logs & Audit Trail generated outputs (Keep .gitkeep)
+09_Audit_and_Evaluation/logs/*
+!09_Audit_and_Evaluation/logs/.gitkeep
+
+# OS & Editor generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.vscode/
+.idea/
