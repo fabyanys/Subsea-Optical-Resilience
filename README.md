@@ -110,7 +110,7 @@ Telecom_Resilience_AI/
 ```bash
 # Clone the repository
 git clone https://github.com/fabyanys/Subsea-Optical-Resilience.git
-cd telecom-resilience-ai
+cd Subsea-Optical-Resilience
 
 # (Optional but recommended) Create and activate a virtual environment
 # On Linux / macOS:
